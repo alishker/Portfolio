@@ -1,0 +1,9 @@
+.fa{
+    color: black;
+    font-size: 25px;
+}
+.card:hover .fa {
+    color: #fff; }
+    body{
+        background-color: blue;
+    }
